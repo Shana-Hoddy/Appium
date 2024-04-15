@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"rahulshettyacademy.Appium","c":"AppiumBasics","l":"AppiumBasics()","u":"%3Cinit%3E()"},{"p":"rahulshettyacademy.Appium","c":"AppiumBasics","l":"AppiumTest()"}];updateSearchResults();
